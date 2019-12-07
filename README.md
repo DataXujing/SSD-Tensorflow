@@ -157,7 +157,7 @@ python3 dataset/convert_tfrecords.py --dataset_directory=data
 + 使用Bounding Box的绝对坐标而不是标准化后的坐标[here](https://github.com/HiKapok/SSD.TensorFlow/tree/AbsoluteCoord).
 
 
-> :fire: 下载预训练的模型[VGG-16]()
+> :fire: 下载预训练的模型[VGG-16](https://github.com/DataXujing/SSD-Tensorflow/releases/tag/v1.0)
 
 把下载的预训练的VGG16拷贝到`./model/pretrain`下，这样我们就准备好训练自己数据的全部过程。
 
